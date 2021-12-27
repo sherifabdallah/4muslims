@@ -1,4 +1,4 @@
-<h1>4muslims</h1>
+<h1><a targer="_blank" href="4muslims.epizy.com">4muslims</a></h1>
 
 <p>At 4Muslims, we build a mobile app that offers comprehensive religious, lifestyle and community features to the Ummah, to continuously inspire them to be better individuals.
 
