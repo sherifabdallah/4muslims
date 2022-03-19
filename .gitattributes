@@ -1,2 +1,2 @@
-*.HACK linguist-detectable=false
+*.hack linguist-detectable=false
 *.css linguist-detectable=false
