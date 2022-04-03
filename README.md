@@ -6,6 +6,6 @@
 
 Every individual grows in unique ways but, regardless of our backgrounds, all of us belong to the larger Muslim community that grows stronger and better together. The community is our most important asset.</p>
 
-```Python
-Tools = ['HTML', 'CSS', 'JavaScript','PHP', 'Bootstrap']
+```php
+Technologys = ['HTML', 'CSS', 'JavaScript','PHP', 'Bootstrap', 'MySQL']
 ```
