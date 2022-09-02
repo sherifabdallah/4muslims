@@ -1,11 +1,25 @@
-<h1><a targer="_blank" href="http://4muslims.epizy.com/">4muslims</a></h1>
-
-<p>At 4Muslims, we build a mobile app that offers comprehensive religious, lifestyle and community features to the Ummah, to continuously inspire them to be better individuals.
+# 4muslims
 
 4Muslims started as a mobile application with a simple idea: to provide accurate prayer times for our Ummah. Over time, we have grown with our user’s evolving needs, into a comprehensive mobile app that serves millions of users around the world. We are part of the Muslim community and we understand its challenges. The 4Muslims team includes individuals of diverse nationalities based in three geographies, but we are bonded by one passion: to solve the digital needs and challenges of our Ummah.
 
-Every individual grows in unique ways but, regardless of our backgrounds, all of us belong to the larger Muslim community that grows stronger and better together. The community is our most important asset.</p>
 
-```php
-Technologys = ['HTML', 'CSS', 'JavaScript','PHP', 'Bootstrap', 'MySQL']
-```
+
+## Table of Content
+- [4muslims](#4muslims)
+  * [Tools](#tools)
+  * [URL](#url)
+  * [Author](#author)
+
+## Tools
+1. PHP
+2. CSS
+3. JavaScript
+4. Bootstrap
+5. MySQL
+
+
+## URL
+* You can also navigate to the main website without needing to install php, you can navigate it from [here](http://4muslims.epizy.com)
+
+## Author
+[Sherif Abdullah](https://github.com/sherif-abdallah)
