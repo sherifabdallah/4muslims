@@ -1,6 +1,6 @@
 # 4muslims
 
-4Muslims started as a mobile application with a simple idea: to provide accurate prayer times for our Ummah. Over time, we have grown with our user’s evolving needs, into a comprehensive mobile app that serves millions of users around the world. We are part of the Muslim community and we understand its challenges. The 4Muslims team includes individuals of diverse nationalities based in three geographies, but we are bonded by one passion: to solve the digital needs and challenges of our Ummah.
+Started as a mobile application with a simple idea: to provide accurate prayer times for our Ummah. Over time, we have grown with our user’s evolving needs, into a comprehensive mobile app that serves millions of users around the world. We are part of the Muslim community and we understand its challenges. The 4Muslims team includes individuals of diverse nationalities based in three geographies, but we are bonded by one passion: to solve the digital needs and challenges of our Ummah.
 
 
 
